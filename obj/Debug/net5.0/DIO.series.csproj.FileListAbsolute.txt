@@ -1,0 +1,16 @@
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.series.exe
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.series.deps.json
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.series.runtimeconfig.json
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.series.runtimeconfig.dev.json
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.series.dll
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\ref\DIO.series.dll
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.series.pdb
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.series.csproj.AssemblyReference.cache
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.series.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.series.AssemblyInfoInputs.cache
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.series.AssemblyInfo.cs
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.series.csproj.CoreCompileInputs.cache
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.series.dll
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\ref\DIO.series.dll
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.series.pdb
+F:\DotnetDIO\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.series.genruntimeconfig.cache
